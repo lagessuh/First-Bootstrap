@@ -1,2 +1,2 @@
-Exercício realizado durante as aula de Framewokrs
+Exercício realizado durante as aula de Frameworks
 Front-End
